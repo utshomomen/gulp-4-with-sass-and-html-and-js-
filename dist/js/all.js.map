@@ -1,0 +1,1 @@
+{"version":3,"sources":["all.js"],"names":["greeting","main","one","console","log"],"mappings":"AAEA,MAAAA,SAAAC,GAGAA,EAGA,IAAAC,IAAA,QACAC,QAAAC,IAAA,QAAAF","file":"all.js","sourcesContent":["//arrow function\r\n\r\nconst greeting = (main)=>\r\n{\r\n\r\n    return main\r\n}\r\n\r\nlet one = greeting('gulp ')\r\nconsole.log(\"hello\",one)"]}
