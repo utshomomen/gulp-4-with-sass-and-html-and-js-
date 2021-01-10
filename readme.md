@@ -1,6 +1,7 @@
 # npm run install 
 # gulp
 
+<img src="src/images/first.png" >
 
 ## Full overview of the project ##
 
