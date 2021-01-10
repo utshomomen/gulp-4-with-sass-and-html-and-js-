@@ -1,3 +1,10 @@
+# npm run install 
+# gulp
+
+
+## Full overview of the project ##
+
+
 # install globally gulp
 
 npm i gulp-cli -g 
@@ -35,6 +42,8 @@ install again all the module if there was a error
 and then 
 
 run gulp scssTask
+
+# gulp
 
 
 
