@@ -1,7 +1,7 @@
 # npm run install 
 # gulp
 
-<img src="src/images/first.png" >
+<img src="src/images/second.png" >
 
 ## Full overview of the project ##
 
@@ -48,6 +48,6 @@ and there was a watch function where everything run on a single default command 
 so run
 # gulp
 
-
+<img src="src/images/second.png" >
 
 
