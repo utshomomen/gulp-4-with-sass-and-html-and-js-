@@ -43,6 +43,8 @@ and then
 
 run gulp scssTask
 
+and there was a watch function where everything run on a single default command which is gulp
+so run
 # gulp
 
 
